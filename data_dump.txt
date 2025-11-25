@@ -1,0 +1,40 @@
+pagead2.googlesyndication.com	(3)		ADVERTISING	Google Ads
+Internal resources are now recommended if the server is using HTTP/2 (aka h2) as requests are optimized in many ways and therefore the page loads faster.close
+3 items
+https://a.tampermonkey.net/matomo.js
+https://www.tampermonkey.net/client.js?642b9ce
+https://u.tampermonkey.net/s.js?rand=mie4nnc7yy2awzg718b&id=a15f2e278dda4213379702a2a0b9ed20&id=a14f2e278dda4213379702a2a0b9ed20&id=a18f2e2&id=a17f2e2&id=a06f2e278dda4213379702a2a0b9ed20&tdc=147&tad=305&sw=1061&sh=510&tzo=-6
+A resource hint is a dns-prefetch, preconnect, prefetch, or prerender relationship that is used to indicate an origin or resource that should be connected to, or fetched, by the user agent.
+They allow the optimization of the delivery of resources, reduce round trips, and fetch resources to deliver content faster while a user is browsing a page.
+
+Keep in mind that prioritizing a particular action takes away browser resources from other actions. Thus, resource hints should be used thoughtfully and not for everything.close
+preconnect (fetchpriority=auto) https://u.tampermonkey.net/
+preconnect (fetchpriority=auto) https://a.tampermonkey.net/
+preconnect (fetchpriority=auto) https://pagead2.googlesyndication.com/
+preload (as font) (type=font/woff2) (fetchpriority=auto) https://www.tampermonkey.net/fonts/lato_400.woff2
+preload (as font) (type=font/woff2) (fetchpriority=auto) https://www.tampermonkey.net/fonts/lato_300.woff2
+List of inline SVGs which are therefore not loaded as external files.
+The down arrow allows you to download these icons as files, but if there are 'use' elements inside, they may not display as wished.close
+total bytes 6207
+
+ID	CLIENT SIZE	VIEWBOX	1ST LEVEL NODES	BYTES	PREVIEW	
+-	0x0	0 0 576 512	path (1)	614		
+-	0x0	0 0 576 512	path (1)	674		
+-	0x0	0 0 384 512	path (1)	1072		
+-	0x0	0 0 512 512	path (1)	816		
+-	0x0	0 0 576 512	path (1)	371		
+-	0x0	0 0 256 512	path (1)	814		
+-	14x19	0 0 320 512	path (1)	634		
+-	11x11	0 0 512 512	path (1)	404		
+-	11x11	0 0 512 512	path (1)	404		
+-	11x11	0 0 512 512	path (1)	404		
+4 items
+google_adsense_settings	{"ca-pub-4506419030010334":["ca-pub-4506419030010334",[[1]]]}
+bot-builder-storage	{"state":{"botData":{"icon":"https://robohash.org/a1e8b828-e8d9-4b6f-ab6b-d33813fff527?bgset=bg1&size=200x200","name":"","personality":"","prompt":"","welcomeMessage":""},"createBotAttachment":[],"createBotAttachmentSize":0,"createdBot":null,"currentStep":1,"currentUpdatedBot":null,"botBuilderVariant":null,"chatbotDeployedDialog":false,"canUpdateChatbotKnowledgeBase":false,"selectedBot":null},"version":0}
+__lsv__	[1764038514815]
+__lsa__	[1764038306124]
+httpEquiv (origin-trial) AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==
+httpEquiv (origin-trial) Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==
+httpEquiv (origin-trial) A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9
+httpEquiv (origin-trial) A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9
+httpEquiv (origin-trial) A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9
