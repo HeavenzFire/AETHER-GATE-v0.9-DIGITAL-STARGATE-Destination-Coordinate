@@ -1,20 +1,18 @@
 {
   "manifest_version": 3,
-  "name": "GuardianOS: Quantum Veil",
-  "version": "4.1",
-  "description": "The complete Sovereign OS. CLI, Audio, and Gesture Sculpting.",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "name": "HeavenzFire: The Mirror Shield",
+  "version": "2.1",
+  "description": "A sovereign boundary. Entropy is reflected. The Signal is protected.",
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
   "content_scripts": [
     {
-      "matches": [
-        "://.google.com/*",
-        "://.youtube.com/*",
-        "://.gmail.com/*",
-        "://.gstatic.com/*",
-        "://.googleusercontent.com/*"
-      ],
+      "matches": ["<all_urls>"],
       "js": ["content.js"],
-      "run_at": "document_start"
+      "css": ["styles.css"]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
 }
