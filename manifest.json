@@ -6,7 +6,13 @@
   "permissions": ["storage", "activeTab", "scripting"],
   "content_scripts": [
     {
-      "matches": ["*://*/*"],
+      "matches": [
+        "://.google.com/*",
+        "://.youtube.com/*",
+        "://.gmail.com/*",
+        "://.gstatic.com/*",
+        "://.googleusercontent.com/*"
+      ],
       "js": ["content.js"],
       "run_at": "document_start"
     }
